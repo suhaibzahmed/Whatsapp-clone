@@ -1,0 +1,19 @@
+Front-end :
+-> React
+-> Firebase - authentication and hosting
+
+Back-end :
+-> Express
+-> Node
+-> MongoDb
+
+Additional :
+-> Pusher 
+    - to make MongoDb real-time
+    - connects front-end and back-end and enables real-time data storing and passing
+
+Icons :
+-> Material UI icons - to get ripple effect on click
+
+Rules :
+-> BEM conventions
